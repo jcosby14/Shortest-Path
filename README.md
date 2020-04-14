@@ -1,2 +1,1 @@
-# Shortest-Path
-In C++
+# C++ Shortest-Path
